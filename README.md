@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Tiago 👋
 
-<!--
-**tiagorivero/tiagorivero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems Engineering student at Universidad ORT Uruguay · Junior Full-stack developer** 
 
-Here are some ideas to get you started:
+I build web applications end to end: the API, the frontend that consumes it, and the deploy that puts it live.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb,tailwind)](https://skillicons.dev)
+
+📍 Uruguay · Open to internships or part-time roles
+
+<a href="mailto:tiagorivero100@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/tiago-rivero/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+</div>
+
+
